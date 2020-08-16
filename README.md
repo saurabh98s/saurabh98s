@@ -4,6 +4,7 @@
 <!--
 **saurabh98s/saurabh98s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![profile_pic](https://github.com/saurabh98s/saurabh98s/blob/master/Web%201920%20%E2%80%93%201.png)
+
 - 🔭 I’m currently working on:
 
 <p>
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
     <img src="http://165.227.208.227/posts/wp-content/uploads/2016/06/react-1.gif"  height="75" />
   </a> 
 </p>
+
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=saurabh98s&show_icons=true&count_private=true) 
 
 - 👯 I’m looking to collaborate on: Golang Backend Services, or any full stack Project.
 - 💬 Ask me about : Anything, Would love to have a conversation
