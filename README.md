@@ -53,7 +53,8 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=saurabh98s&show_icons=true&count_private=true) 
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=saurabh98s&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh98s)](https://github.com/saurabh98s)
 
 - 👯 I’m looking to collaborate on: Golang Backend Services, or any full stack Project.
 - 💬 Ask me about : Anything, Would love to have a conversation
