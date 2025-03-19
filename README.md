@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Profile Picture](https://github.com/saurabh98s/saurabh98s/blob/master/Web%201920%20%E2%80%93%201.png)
 
 ---
 
