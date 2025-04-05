@@ -1,7 +1,6 @@
 
 # Hey there, I'm Saurabh Suman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-> **Graduate Student** in Data Analytics @ **San Jose State University**  
 > **Golang Enthusiast** • **ML/DL Researcher** • **Cloud & DevOps Explorer**  
 
 ---
